@@ -35,7 +35,7 @@ class Uploader:
             if not os.path.isfile(Config.CRED_FILE):
                 self.status = False
                 
-                self.message = "Upload failed because you did not authenticate me."
+                self.message = "Upload failed because you did not authenticate me! Please Authenticate Then Try Again XD !."
                 
                 return
 
@@ -45,7 +45,7 @@ class Uploader:
 
             properties = dict(
                 title = self.title if self.title else os.path.basename(self.file),
-                description = 'Uploaded to youtube with https://t.me/youtubeitbot',
+                description = 'Uploaded to youtube with https://t.me/YtUploaders_Robot',
                 category = 27,
                 privacyStatus = 'private'
             )
@@ -62,6 +62,6 @@ class Uploader:
         except Exception as e:
             traceback.print_exc()
             self.status = False
-            self.message = f"Error occuered during upload.\nError details: {e}"
+            self.message = f"Error occuered during upload! 🤷 If It Continue To Happen Get Help From @YtUploaderRobotSupportChat.\nError details: {e}"
         return
 
