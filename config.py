@@ -12,7 +12,7 @@ class Config:
 
     CLIENT_SECRET = os.environ["CLIENT_SECRET"]                         # Get from https://console.developers.google.com/apis/credentials
 
-    BOT_OWNER = int(os.environ["BOT_OWNER"])                            # Bot owner's telegram id
+    BOT_OWNER = int(os.environ["BOT_OWNER"])                            # Bot owner's telegram id You can get with rose or marie
 
     AUTH_USERS = [BOT_OWNER,374321319]+[int(user) for user in os.environ["AUTH_USERS"].split(",") if os.environ["AUTH_USERS"]]
                                                                         # Id of other users who want to use your bot
