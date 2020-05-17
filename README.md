@@ -5,6 +5,8 @@
 
 > Simple [Telegram Bot](https://core.telegram.org/bots "Telegram Bots") to Upload videos to [Youtube](https://youtube.com "Youtube") written in Python3 By Indian Bot Team ✌️.
 
+### [SUPPORT GROUP](https://t.me/technologicalworld)
+
 # If You Got Banned By Youtube Because For Copying A Video And Uploading It through this bot ! 
 And If You Come And Ask For Help ! I will gonna roll on the floor and laugh ! LOL 🤣
 
