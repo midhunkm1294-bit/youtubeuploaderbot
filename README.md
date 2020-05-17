@@ -5,6 +5,9 @@
 
 > Simple [Telegram Bot](https://core.telegram.org/bots "Telegram Bots") to Upload videos to [Youtube](https://youtube.com "Youtube") written in Python3 By Indian Bot Team ✌️.
 
+# If You Got Banned By Youtube Because For Copying A Video And Uploading It through this bot ! 
+And If You Come And Ask For Help ! I will gonna roll on the floor and laugh ! LOL 🤣
+
 
 ### Contents
 
@@ -14,7 +17,6 @@
 * [Status](#status)
 * [Special Notes](#special-notes)
 * [Screenshots](#screenshots)
-* [Video Tutorial](#video-tutorial)
 * [Contact](#contact)
 
 ### Info
@@ -39,7 +41,7 @@ This is a simple hobby project which i was really curious about to impliment. Th
 **Clone and setup virtual environment**
 
 ``` bash
-$ git clone https://github.com/odysseusmax/utube.git
+$ git clone https://github.com/midhunkm1294-bit/youtubeuploaderbot.git
 
 $ cd utube
 
@@ -80,7 +82,7 @@ If you did everything correctly, the bot should be running. Go do `/start` to se
 
 **Or the easy way of directly deploying to heroku**
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/odysseusmax/utube/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/midhunkm1294-bit/youtubeuploaderbot/tree/master)
 
 
 
@@ -98,7 +100,7 @@ This project is actively maintained and will continue so until I'm tired of it.
 
 ### Screenshots
 <p align="center">
-<a href="https://github.com/midhunkm1294-bit/utube">
+<a href="https://github.com/midhunkm1294-bit/youtubeuploaderbot">
 
 <img  width="50%" height="50%" src="ss/overview.jpeg">
 
@@ -112,18 +114,7 @@ This project is actively maintained and will continue so until I'm tired of it.
 
 </p>
 
-### Video Tutorial
-
-<p align="center">
-           <a href="http://www.youtube.com/watch?feature=player_embedded&v=LSs8b5dMWIA" target="_blank">
-                      <img src="http://img.youtube.com/vi/LSs8b5dMWIA/hqdefault.jpg" alt="How To Make Telegram Bot For YouTube Videos Uploading" />
-           </a>
-</p>
-<p align="center">
-           <b>Video Tutorial</b>
-</p>
-
 ### Contact
 
 Share the FeedBack and Suggestions with me.
-You can contact me [Here](https://telegram.dog/odysseusmax "Contact me")
+You can contact me [Here](https://telegram.dog/TechnologicalWorld "Contact me")
