@@ -106,7 +106,7 @@ This project is actively maintained and will continue so until I'm tired of it.
 
 <img  width="50%" height="50%" src="ss/help.jpeg">
 
-<img  width="50%" height="50%" src="ss/bot-upload.jpeg">
+<img  width="50%" height="50%" src="ss/upload.jpeg">
 
 <img  width="50%" height="50%" src="ss/uploaded.jpeg">
 
