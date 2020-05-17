@@ -18,10 +18,10 @@
 # If You Got Banned By Youtube Because For Copying A Video And Uploading It through this bot ! 
 # And If You Come And Ask For Help ! I will gonna roll on the floor and laugh ! LOL 🤣
 
-
 ### Contents
 
 * [Info](#info)
+* [Commands](#commands)
 * [Libraries Used](#libraries-used)
 * [Setup](#setup)
 * [Status](#status)
@@ -29,9 +29,18 @@
 * [Screenshots](#screenshots)
 * [Contact](#contact)
 
+
 ### Info
 
 This is a simple hobby project which i was really curious about to impliment. This is a Telegram bot which uses [Youtube Data API v3](https://developers.google.com/youtube/v3/ "Youtube Data API v3") to upload videos to Youtube. This bot uses [OAuth 2.0](https://en.wikipedia.org/wiki/OAuth#OAuth_2.0 "OAuth 2,0") to connect to your Youtube Channel.
+
+### Commands 
+
+        /start - Starts The Bot
+        /help - Help You ! Tells You About About And Help To Authenticate
+        /authentication - Use For Authentication
+        /upload - Reply to the video to upload To Telegram
+        /Authenticate - Put You Authentication Code after this Command To authenticate And Start Uploading 
 
 ### Libraries Used
 
