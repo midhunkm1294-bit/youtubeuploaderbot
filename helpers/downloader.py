@@ -31,7 +31,7 @@ class Downloader:
         except Exception as e:
             traceback.print_exc()
             self.status = False
-            self.message = f"Error occuered during download.\nError details: {e}"
+            self.message = f"An Error occuered during download.\nError details: {e}"
 
         return
 
@@ -41,7 +41,7 @@ class Downloader:
             if(not self.callback):
                 return
             
-            await self.callback(cur, tot, self.start_time, "Downloading...", *self.args)
+            await self.callback(cur, tot, self.start_time, "Downloading✌️...", *self.args)
 
         except:
             pass
