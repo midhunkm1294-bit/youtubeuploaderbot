@@ -23,8 +23,8 @@ async def _help(c, m):
 
 help_callback_filter = Filters.create(lambda _, query: query.data.startswith('help+'))
 cmsg = [
-    'hi',
-    'Hi there!',
+    'hi🎉',
+    'Hi there Bro ✌️!',
     f"You're Good {Emoji.SMILING_FACE_WITH_SMILING_EYES}",
     f"You're awesome {Emoji.GRINNING_FACE_WITH_BIG_EYES}",
     f"Oh You're amazing {Emoji.SMILING_FACE_WITH_HEART_EYES}",
