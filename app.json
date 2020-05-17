@@ -1,8 +1,8 @@
 {
   "name": "YoutubeUploaderBot",
   "description": "Telegram to YouTube Uploader Bot",
-  "repository": "https://github.com/midhunkm1294-bit/Youtubeuploaderbot",
-  "logo": "https://github.com/midhunkm1294-bit/Youtubeuploaderbot/blob/master/ss/stark.jpeg",
+  "repository": "https://github.com/midhunkm1294-bit/youtubeuploaderbot",
+  "logo": "https://github.com/midhunkm1294-bit/youtubeuploaderbot/blob/master/ss/stark.jpeg",
   "keywords": ["telegram", "youtube", "uploader"],
   "env": {
       "BOT_TOKEN": {
