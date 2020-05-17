@@ -1,9 +1,9 @@
-# [Youtube Uploader Bot](https://t.me/youtubeitbot)
+# [Youtube Uploader Bot](https://t.me/TechnologicalWorld)
 
 
 
 
-> Simple [Telegram Bot](https://core.telegram.org/bots "Telegram Bots") to Upload videos to [Youtube](https://youtube.com "Youtube") written in Python3.
+> Simple [Telegram Bot](https://core.telegram.org/bots "Telegram Bots") to Upload videos to [Youtube](https://youtube.com "Youtube") written in Python3 By Indian Bot Team ✌️.
 
 
 ### Contents
@@ -101,13 +101,13 @@ This project is actively maintained and will continue so until I'm tired of it.
 
 <img  width="25%" height="25%" src="./ss/overview.jpg">
 
-<img  width="25%" height="25%" src="./ss/bot-start.jpg">
+<img  width="25%" height="25%" src="./ss/start.jpg">
 
-<img  width="25%" height="25%" src="./ss/bot-help.jpg">
+<img  width="25%" height="25%" src="./ss/help.jpg">
 
-<img  width="25%" height="25%" src="./ss/bot-authorise.jpg">
+<img  width="25%" height="25%" alt="Upload" src="./ss/bot-uploading.jpg">
 
-<img  width="25%" height="25%" alt="Upload" src="./ss/bot-upload.jpg">
+<img  width="25%" height="25%" src="./ss/uploaded.jpg">
 
 </p>
 
