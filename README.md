@@ -102,11 +102,11 @@ This project is actively maintained and will continue so until I'm tired of it.
 
 <img  width="50%" height="50%" src="ss/overview.jpeg">
 
-<img  width="25%" height="50%" src="ss/start.jpeg">
+<img  width="50%" height="50%" src="ss/start.jpeg">
 
-<img  width="25%" height="50%" src="ss/help.jpeg">
+<img  width="50%" height="50%" src="ss/help.jpeg">
 
-<img  width="25%" height="50%" alt="Upload" src="ss/bot-uploading.jpeg">
+<img  width="50%" height="50%" alt="Upload" src="ss/bot-uploading.jpeg">
 
 <img  width="50%" height="50%" src="ss/uploaded.jpeg">
 
