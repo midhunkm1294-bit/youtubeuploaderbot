@@ -100,15 +100,15 @@ This project is actively maintained and will continue so until I'm tired of it.
 <p align="center">
 <a href="https://github.com/midhunkm1294-bit/utube">
 
-<img  width="25%" height="25%" src="ss/overview.jpg">
+<img  width="25%" height="25%" src="ss/overview.jpeg">
 
-<img  width="25%" height="25%" src="ss/start.jpg">
+<img  width="25%" height="25%" src="ss/start.jpeg">
 
-<img  width="25%" height="25%" src="ss/help.jpg">
+<img  width="25%" height="25%" src="ss/help.jpeg">
 
-<img  width="25%" height="25%" alt="Upload" src="ss/bot-uploading.jpg">
+<img  width="25%" height="25%" alt="Upload" src="ss/bot-uploading.jpeg">
 
-<img  width="25%" height="25%" src="ss/uploaded.jpg">
+<img  width="25%" height="25%" src="ss/uploaded.jpeg">
 
 </p>
 
