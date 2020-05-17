@@ -97,7 +97,7 @@ If you did everything correctly, the bot should be running. Go do `/start` to se
 
 Made by 
 
-<img src="ss/stark.png" alt="Stark">
+<img src="ss/stark.jpeg" alt="Stark">
 
 
 
