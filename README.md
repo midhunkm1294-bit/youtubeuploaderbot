@@ -95,6 +95,11 @@ If you did everything correctly, the bot should be running. Go do `/start` to se
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/midhunkm1294-bit/youtubeuploaderbot/tree/master)
 
 
+Made by 
+
+<img src="ss/stark.png" alt="Stark">
+
+
 
 ### Status
 
